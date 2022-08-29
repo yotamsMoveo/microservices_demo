@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B239B981-810D-47C6-B1C6-873FF81753D7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.webapi__yotam PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webapi_yotam/Dockerfile">
+    <Files>
+      <File FileName="webapi_yotam/Controllers/PlatformController.cs" Line="51" Column="1" />
+      <File FileName="webapi_yotam/Dockerfile" Line="2" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapi_yotam_sln" expanded="True">
+            <Node name="webapi_yotam" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CommandsService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

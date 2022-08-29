@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E9r6c930ny0GfbtaTOAOmyMXTCVj1d6DyAmA2r7ZhRI=",
+  "Source": "webapi_yotam",
+  "BasePath": "_content/webapi_yotam",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapi_yotam:
+    image: ${DOCKER_REGISTRY-}webapiyotam
+    build:
+      context: .
+      dockerfile: webapi_yotam/Dockerfile
